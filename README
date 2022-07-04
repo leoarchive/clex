@@ -1,0 +1,4 @@
+Simple C lexer  
+
+run:
+  nix-instantiate --eval --strict lex.nix
